@@ -14,22 +14,22 @@ https://raw.githubusercontent.com/llkhs/TikTokFly/main/QuantumultX/ruleset_tikto
 
 4、引用重写(使用时4选1)：
 
-日本
+·日本
 ```
 https://raw.githubusercontent.com/llkhs/TikTokFly/main/QuantumultX/TikTok-JP.conf
 ```
 
-台湾
+·台湾
 ```
 https://raw.githubusercontent.com/llkhs/TikTokFly/main/QuantumultX/TikTok-TW.conf
 ```
 
-韩国
+·韩国
 ```
 https://raw.githubusercontent.com/llkhs/TikTokFly/main/QuantumultX/TikTok-KR.conf
 ```
 
-美国
+·美国
 ```
 https://raw.githubusercontent.com/llkhs/TikTokFly/main/QuantumultX/TikTok-US.conf
 ```
